@@ -1,0 +1,116 @@
+img {
+max-width: 100%;
+}
+
+.image {
+page-break-after: always;
+}
+
+span.initial{
+  font-size: 0.75em;
+}
+  
+h1.title{
+  text-align: center;
+  font-size: 2.25em; /*36px*/
+  font-weight: normal;
+  margin-top: 0.75em;
+  text-indent: 0;
+}
+
+h2.subtitle{
+  text-align: center;
+  font-size: 1.3125em; /*21px*/
+  font-weight: normal;
+  text-indent: 0;
+}
+
+p.author{
+  text-align: center;
+  font-size: 1.125em; /*18px*/
+  letter-spacing: 0.04em;
+  text-indent: 0;
+}
+p.publisher{
+  text-align: center;
+  font-size: 0.875em; /*14px*/
+  margin-top: 3em; /*42px*/
+  text-indent: 0;
+}
+
+span.pub{
+  font-size: 0.75em; /*12px*/
+  font-variant: small-caps;
+  letterspacing: 0.03em;
+}
+
+div.copyright {
+  font-size: 0.875em; /*14px*/
+  line-height: 1.438em; /*20px*/
+}
+
+body {
+margin-top: 5%;
+margin-bottom: 5%;
+margin-left: 5%;
+margin-right: 5%;
+font-size: 100%; /*16px*/
+}
+
+p {
+  font-size: 1em; /*16px*/
+  text-indent: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p.first {
+  text-indent: 0;
+}
+
+h1.chapter-number {
+  font-size: 1em; /*16px*/
+  line-height: 1.25em; /*20px*/
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5em; /*80px*/
+  margin-bottom: 2.5em; /*40px*/
+}
+
+.dropcap {
+  line-height: 100%;
+  font-weight: normal;
+  font-size: 341%;
+  margin-right: 0.075em;
+  margin-top:-0.3em;
+  float:left;
+  height:0.8em;
+}
+
+.small_caps {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.1em;
+}
+
+p.section {
+  text-align: center;
+  font-size: 1em; /*16px*/
+  line-height: 1.25em; /*20px*/
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+blockquote {
+  font-size: 0.875em; /*14px*/
+  line-height: 1.438em; /*20px*/
+  margin-top: 1.428571em; /*20px*/
+  margin-bottom: 1.428571em; /*20px*/
+  margin-left: 10%;
+}
+
+p.poetry {
+margin-left: 10%;
+text-indent: -5%;
+}
+
