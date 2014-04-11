@@ -22,8 +22,8 @@
 		<item id="css" href="stylesheet.css" media-type="text/css"/>
 	</manifest>
 	<spine toc="ncx">
-		<itemref idref="title" linear="no"/>
-		<itemref idref="copyright" linear="no"/>
+		<itemref idref="title" linear="yes"/>
+		<itemref idref="copyright" linear="yes"/>
 		<itemref idref="ch01" linear="yes"/>
 		<itemref idref="ch02" linear="yes"/>
 		<itemref idref="ch03" linear="yes"/>
