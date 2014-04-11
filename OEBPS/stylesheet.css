@@ -15,12 +15,14 @@ h1.title{
   font-size: 2.25em; /*36px*/
   font-weight: normal;
   margin-top: 1.5em;
+  text-indent: 0;
 }
 
 h2.subtitle{
   text-align: center;
   font-size: 1.3125em; /*21px*/
   font-weight: normal;
+  text-indent: 0;
 }
 
 p.author{
@@ -28,11 +30,13 @@ p.author{
   font-size: 1.125em; /*18px*/
   letter-spacing: 0.04em;
   margin-top: 4em;
+  text-indent: 0;
 }
 p.publisher{
   text-align: center;
   font-size: 0.875em; /*14px*/
   margin-top: 6em; /*56px*/
+  text-indent: 0;
 }
 
 span.pub{
@@ -42,7 +46,6 @@ span.pub{
 }
 
 .copyright {
-text-indent: 0;
   font-size: 0.875em; /*14px*/
   line-height: 1.438em; /*20px*/
   margin-top: 1.428571em; /*20px*/
@@ -76,34 +79,6 @@ h1.chapter-number {
   text-align: center;
   margin-top: 5em; /*80px*/
   margin-bottom: 2.5em; /*40px*/
-}
-
-h1 { /*Chapter Title*/
-  font-weight: normal;
-  text-align: center;
-  font-size: 2.25em; /*36px*/
-  line-height: 1.111111em; /*40px*/
-  margin-top: 0;
-  margin-bottom: 1.111111em; /*40px*/
-}
-
-h2 { /*Chapter Subtitle*/
-  font-size: 1.25em; /*20px*/
-  line-height: 100%; /*20px*/
-  font-weight: normal;
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: 0;
-  margin-bottom: 1em; /*20px*/
-}
-
-h3 { /*Author Line*/
-  font-size: 1em; /*16px*/
-  font-weight: normal;
-  font-style: italic;
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 1.25em; /*20px*/
 }
 
 .dropcap {
