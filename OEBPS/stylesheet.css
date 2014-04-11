@@ -45,9 +45,13 @@ span.pub{
   letterspacing: 0.03em;
 }
 
-.copyright {
+div.copyright {
   font-size: 0.875em; /*14px*/
   line-height: 1.438em; /*20px*/
+}
+
+p.first-first{
+margin-top: 5.142857;
 }
 
 body {
