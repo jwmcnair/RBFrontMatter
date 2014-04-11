@@ -51,7 +51,8 @@ div.copyright {
 }
 
 p.first-first{
-margin-top: 5.142857;
+margin-top: 5.142857em;
+text-indent: 0;
 }
 
 body {
