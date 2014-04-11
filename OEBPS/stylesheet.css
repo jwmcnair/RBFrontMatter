@@ -1,3 +1,8 @@
+@font-face{
+font-family: "Source Sans Pro";
+src:url(fonts/SourceSansPro-Regular.otf.woff)
+}
+
 img {
 max-width: 100%;
 }

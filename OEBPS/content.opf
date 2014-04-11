@@ -20,6 +20,10 @@
 		<item id="ch05" href="05.html" media-type="application/xhtml+xml"/>
 		<item id="cover-image" href="images/cover.png" media-type="image/png"/>
 		<item id="css" href="stylesheet.css" media-type="text/css"/>
+		<item id="font01" href="fonts/SourceSansPro-Regular.otf.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="font02" href="fonts/SourceSansPro-It.otf.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="font03" href="fonts/SourceSansPro-Light.otf.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="font04" href="fonts/SourceSansPro-LightIt.otf.woff" media-type="application/vnd.ms-opentype"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="title" linear="yes"/>
