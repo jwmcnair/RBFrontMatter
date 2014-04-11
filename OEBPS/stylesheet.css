@@ -1,8 +1,3 @@
-@font-face{
-font-family: "Source Sans Pro";
-src:url(fonts/SourceSansPro-Regular.otf.woff)
-}
-
 img {
 max-width: 100%;
 }
@@ -19,7 +14,7 @@ h1.title{
   text-align: center;
   font-size: 2.25em; /*36px*/
   font-weight: normal;
-  margin-top: 1.5em;
+  margin-top: 0.75em;
   text-indent: 0;
 }
 
@@ -34,13 +29,13 @@ p.author{
   text-align: center;
   font-size: 1.125em; /*18px*/
   letter-spacing: 0.04em;
-  margin-top: 4em;
+  #margin-top: 4em;
   text-indent: 0;
 }
 p.publisher{
   text-align: center;
   font-size: 0.875em; /*14px*/
-  margin-top: 6em; /*56px*/
+  margin-top: 3em; /*42px*/
   text-indent: 0;
 }
 
@@ -56,7 +51,7 @@ div.copyright {
 }
 
 p.first-first{
-margin-top: 5.142857em;
+#margin-top: 5.142857em;
 text-indent: 0;
 }
 
@@ -66,7 +61,6 @@ margin-bottom: 5%;
 margin-left: 5%;
 margin-right: 5%;
 font-size: 100%; /*16px*/
-font-family: 'Source Sans Pro', sans-serif;
 }
 
 p {
